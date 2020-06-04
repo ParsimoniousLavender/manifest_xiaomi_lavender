@@ -1,0 +1,1 @@
+manifest_xiaomi_lavender
